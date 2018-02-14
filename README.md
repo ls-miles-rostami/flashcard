@@ -5,7 +5,7 @@
 Create flash cards and test your knowledge by clicking to reveal answer.
 
 
-Demo: [Here](picayune-sail.surge.sh)
+Demo: [Here](https://picayune-sail.surge.sh/)
 
 
 
