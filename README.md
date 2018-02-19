@@ -1,4 +1,4 @@
-# React-Redux flash card app
+# React Redux flash card app
 
 
 
